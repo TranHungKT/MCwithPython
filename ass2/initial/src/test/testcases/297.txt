@@ -1,0 +1,13 @@
+
+        int a,b,c;
+        int foo(int a){
+            putIntLn(a);
+        }
+        void main(){
+            putIntLn(b);
+        }
+        void main(){
+            do b = b * c;
+            while b <100;
+        }
+        

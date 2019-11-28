@@ -1,0 +1,4 @@
+
+void _a(float a,int k){if(a)if(b)if(c)if(d)if(e){for(f;g;h)a;}else(e);}
+float[] _c(string a[]){for(i=0;i<100;i=i+1){for(j=0;j<100;i=i+1)return;}}
+                

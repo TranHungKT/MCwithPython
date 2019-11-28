@@ -1,0 +1,8 @@
+void main(){
+        int a;
+        do{
+        a = a*2;
+        if(a > 6) continue;
+        }
+        while a < 12;
+        }

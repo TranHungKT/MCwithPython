@@ -1,0 +1,3 @@
+
+string isString(string str){if(s="ppl")return("p");else if(s="dsa")return("d");else return("nothing");}
+                

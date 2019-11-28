@@ -1,0 +1,1 @@
+1.2e-3,.2E4,abcd\b12345,tranhung\bHung,<EOF>

@@ -1,0 +1,1 @@
+float abc[10],a,b;

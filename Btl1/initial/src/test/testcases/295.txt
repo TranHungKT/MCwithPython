@@ -1,0 +1,12 @@
+
+        int a,b,c;
+        int foo(){
+            do a + 1 ;
+            while a<10;
+            return a;
+        }
+        void main(){
+            do b = b * c;
+            while b <100;
+        }
+        

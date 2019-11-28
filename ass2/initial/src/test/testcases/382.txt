@@ -1,0 +1,7 @@
+
+boolean isTrue(boolean k){if(k==true)return true;else return false;}
+string isString(string str){if(s="ppl")return("p");else if(s="dsa")return("d");else return("nothing");}
+boolean isPrime;
+int checkPrime(int index){for(i = 2; i <=index/2;i = i+1){if(index%i==0){return 0;}}return 1;}
+void main(){int a; a = 1; printf(isTrue(a)||isString(a)||checkPrime(3));}
+                

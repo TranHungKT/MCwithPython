@@ -1,0 +1,8 @@
+int main(){
+        int a;
+        doo(a);
+        float b;
+        string c ; 
+        putString(c) ;
+        putStringLn(c);
+        }

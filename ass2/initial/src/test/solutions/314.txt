@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[VarDecl(arg,ArrayTypePointer(StringType))],VoidType,Block([CallExpr(Id(foo),[Id(a),Id(c)])]))])

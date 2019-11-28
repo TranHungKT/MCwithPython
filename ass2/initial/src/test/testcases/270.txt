@@ -1,0 +1,8 @@
+
+            int a ;
+            foo();
+            float b;
+            if(a != b)  
+            a = b +1 ;
+            else a = b - 1;
+            

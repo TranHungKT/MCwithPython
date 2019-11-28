@@ -1,0 +1,4 @@
+
+boolean isPrime;
+int checkPrime(int index){for(i = 2; i <=index/2;i = i+1){if(index%i==0){return 0;}}return 1;}
+                

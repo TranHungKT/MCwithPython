@@ -1,0 +1,8 @@
+int main(){
+        int a,b;
+        do{ 
+        a = a*b;
+        if(a > b) break;
+        }
+        while a < 10;
+        }

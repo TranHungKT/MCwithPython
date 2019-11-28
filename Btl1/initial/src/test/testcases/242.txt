@@ -1,0 +1,10 @@
+int foo(int a, int b, int c){
+        if(a == 0) b = c;
+        else a = c;
+        for(a;a<10;a + 1)
+        {
+         putString(tran) ; 
+         putBool(false);
+         putBool(true);
+        }
+        }

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(_a),[VarDecl(a,FloatType),VarDecl(k,IntType)],VoidType,Block([If(Id(a),If(Id(b),If(Id(c),If(Id(d),If(Id(e),Block([For(Id(f);Id(g);Id(h);Id(a))]),Id(e))))))]))])

@@ -1,0 +1,5 @@
+boolean b(int a) {
+               do{
+                 a + 1;
+               }while(a<100);
+               }

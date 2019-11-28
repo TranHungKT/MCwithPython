@@ -1,0 +1,5 @@
+
+boolean isTrue(boolean k){if(k==true)return true;else return false;}
+string isString(string str){if(s="ppl")return("p");else if(s="dsa")return("d");else return("nothing");}
+void main(){int a; a = 1; printf(isTrue(a)||isString(a));}
+                

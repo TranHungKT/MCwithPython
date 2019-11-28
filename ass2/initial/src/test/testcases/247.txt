@@ -1,0 +1,6 @@
+void main(){
+        int a;
+        if(a == 0) a = 2;
+        else if(a == 3) a = 1;
+        else
+        }

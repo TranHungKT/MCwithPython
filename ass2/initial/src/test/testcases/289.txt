@@ -1,0 +1,4 @@
+
+        putBoolLn(true);
+        putInt();
+        putIntLn(5);

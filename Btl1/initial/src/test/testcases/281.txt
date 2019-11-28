@@ -1,0 +1,7 @@
+int main(){
+        int a;
+        doo(a);
+        float b;
+        a = b/10;
+        a = a +10;
+        }

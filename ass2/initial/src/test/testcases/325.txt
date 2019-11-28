@@ -1,0 +1,5 @@
+
+void _a(){
+    if (a==b) return a;
+}
+                

@@ -1,0 +1,1 @@
+Program([VarDecl(a,IntType),FuncDecl(Id(doubleThing),[VarDecl(a,IntType)],FloatType,Block([If(BinaryOp(!=,Id(a),IntLiteral(1)),Return(BinaryOp(*,Id(a),Id(a))),Return(IntLiteral(1))),Dowhile([Block([StringLiteral(nothing in here)])],Id(exp))]))])

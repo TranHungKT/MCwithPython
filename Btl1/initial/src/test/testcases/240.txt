@@ -1,0 +1,9 @@
+int foo(int a, int b, int c){
+        if(a == 0) b = c;
+        else if(a == 1) c = b;
+        else a = c;
+        for(a;a<10;a + 1)
+        {
+         a + 1;
+        }
+        }

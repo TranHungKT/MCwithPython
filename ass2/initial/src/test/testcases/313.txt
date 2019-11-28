@@ -1,0 +1,6 @@
+
+        int abc[10],a,b;
+        void main() {
+            foo()/1e3*k&&true;
+        }
+        

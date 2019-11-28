@@ -1,0 +1,6 @@
+int main(){
+        foo(1);
+        int t(){int a;}
+        int a;
+        doo(a);
+        }

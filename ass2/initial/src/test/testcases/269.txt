@@ -1,0 +1,7 @@
+
+            int a ;
+            foo();
+            float b;
+            a != b ; 
+            a = b +1 ;
+            

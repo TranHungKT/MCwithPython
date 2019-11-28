@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[VarDecl(argc,IntType),VarDecl(argv,StringType)],IntType,Block([CallExpr(Id(printf),[StringLiteral(@~$%&';:[]_+)])]))])

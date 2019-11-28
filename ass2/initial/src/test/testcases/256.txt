@@ -1,0 +1,6 @@
+void main(){
+        float a ;
+        do a = a*2;
+        while a < 10;
+        return a ;
+        }

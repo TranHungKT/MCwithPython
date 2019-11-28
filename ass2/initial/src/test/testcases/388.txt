@@ -1,0 +1,14 @@
+
+void printf(string s[]){
+    if (s != "") 
+        printf("%s",s);
+    else 
+        return;
+}
+int main(){
+    int a;
+    scanf("%d",a);
+    printf(a);
+    printf("Hello World !");
+}
+                

@@ -1,0 +1,1 @@
+this is \t\r a string!,<EOF>

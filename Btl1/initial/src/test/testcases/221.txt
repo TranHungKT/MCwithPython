@@ -1,0 +1,4 @@
+ void main(){
+                    foo( a,abc[50],b);
+                    putIntLn ( 30 ) ;
+                   } 

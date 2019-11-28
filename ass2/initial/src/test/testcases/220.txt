@@ -1,0 +1,6 @@
+int a; float b;
+                    void main(){
+                    putIntLn(20,40,50);
+                    getInt();
+                    getString(tran);
+                    } 

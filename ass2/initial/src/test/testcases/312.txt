@@ -1,0 +1,3 @@
+int abc[10],a,b;
+        void main() {}
+        

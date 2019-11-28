@@ -1,0 +1,1 @@
+int str='This is a string!'

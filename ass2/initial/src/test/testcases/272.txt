@@ -1,0 +1,12 @@
+
+            int a ;
+            foo();
+            float b;
+            if(a != b)  
+            a = b +1 ;
+            else a = b - 1;
+            a[100];
+            100;
+            b;
+            return b;
+            

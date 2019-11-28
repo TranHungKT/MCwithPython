@@ -1,0 +1,5 @@
+int main(){
+        foo(1.1);
+        int a;
+        doo(a);
+        }

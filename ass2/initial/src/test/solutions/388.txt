@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(printf),[VarDecl(s,ArrayTypePointer(StringType))],VoidType,Block([If(BinaryOp(!=,Id(s),StringLiteral()),CallExpr(Id(printf),[StringLiteral(%s),Id(s)]),Return())])),FuncDecl(Id(main),[],IntType,Block([VarDecl(a,IntType),CallExpr(Id(scanf),[StringLiteral(%d),Id(a)]),CallExpr(Id(printf),[Id(a)]),CallExpr(Id(printf),[StringLiteral(Hello World !)])]))])

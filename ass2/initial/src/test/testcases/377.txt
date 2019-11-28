@@ -1,0 +1,4 @@
+
+string _d(int a[],float b){do{if(a)for(b;c;d)return;}while(true);}
+boolean[] _e(boolean k,boolean j[]){_a(.2e-12,32);_c("testpara");_d(x[],3.e-12);} 
+                

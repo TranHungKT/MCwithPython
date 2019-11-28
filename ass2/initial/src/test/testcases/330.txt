@@ -1,0 +1,3 @@
+
+void _a(float a,int k){if(a)if(b)if(c)if(d)if(e){for(f;g;h)a;}else(e);}
+                

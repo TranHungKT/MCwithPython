@@ -1,0 +1,4 @@
+
+void reverseInt(int a){do{remainder = n%10;reverNum=reverNum*10+remainder;n=n/10;}while(a!=0);}
+int main(){int n;printf("Enter : ");scanf("%d %d",n);reverseInt(a);printf(reverNum);}
+                

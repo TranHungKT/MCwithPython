@@ -1,0 +1,9 @@
+
+int a,b[0],c[1],d[2];
+float e[3],f[4];
+boolean gh[5],j[100];
+string s;
+void ax(int a,int c,int d){
+    foo(a,b,c,d,e,f,gh,j,s);
+}
+                

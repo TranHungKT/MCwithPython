@@ -1,0 +1,3 @@
+
+int main(int argc, string argv){printf("\b\t\r\n %d : ",a[i]);}
+                

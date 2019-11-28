@@ -1,0 +1,12 @@
+
+        int foo(int a){
+            for(i = 0;i < 10;i=i+1)
+            if(i > a) a = i*2;
+            return a;
+        }
+        void main(){
+            int b,c;
+            c = foo(7);
+            b = foo(8);
+        }
+        

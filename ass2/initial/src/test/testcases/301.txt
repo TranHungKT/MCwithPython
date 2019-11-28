@@ -1,0 +1,12 @@
+
+int main(float a,int b[]){
+    int a;
+    continue;
+    break;
+    return;
+}
+int foo[3];
+float foo(int c[]){
+    continue;
+}
+        

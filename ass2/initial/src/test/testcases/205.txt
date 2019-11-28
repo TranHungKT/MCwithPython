@@ -1,0 +1,6 @@
+void main() {
+                    float b ;
+                    float d(boolean c){
+                      if(c) b = 5 ;
+                    }
+                    }

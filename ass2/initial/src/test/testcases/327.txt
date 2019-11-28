@@ -1,0 +1,9 @@
+int main(){
+            do {
+                int a;
+            } {
+                float b[2];
+            }{
+                foo(x==3)[2];
+            } while 1;
+        }

@@ -1,0 +1,13 @@
+
+        int a,b,c;
+        int foo(int a){
+            putIntLn(a);
+            if(a==10) 
+              for(b = 1;b<a ;b +1 )
+                b +1;
+            else break;    
+        }
+        void main(){
+            putIntLn(b);
+        }
+        

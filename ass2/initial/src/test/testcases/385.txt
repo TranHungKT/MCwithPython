@@ -1,0 +1,15 @@
+
+                int main(){}
+                int func(int a){
+                    if (a) 
+                        if (b)
+                            if (c)
+                                a;
+                            else 
+                                d;
+                        else
+                            c;
+                    else 
+                        e;
+                }
+                

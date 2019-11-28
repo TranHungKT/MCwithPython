@@ -1,0 +1,8 @@
+int main(){
+        int a; boolean b;
+        for(a = 0; a<10;a+ 1)
+        { 
+          putIntLn(5) ;
+          if(a==9) getInt();
+        }
+        }

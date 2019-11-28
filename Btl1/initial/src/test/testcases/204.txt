@@ -1,0 +1,8 @@
+int main() {
+                        int a,b[5] ;
+                        float b;
+                        int d(int c){
+                          if(c==1) b + 1 = 5 ;
+                          else b + 2 = 10  ;
+                        }
+                        }

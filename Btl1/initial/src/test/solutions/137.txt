@@ -1,0 +1,1 @@
+int,main,(,),{,do,foo,(,x,,,y,=,x,*,x,),;,while,x,<=,10,;,},<EOF>

@@ -1,0 +1,6 @@
+void main(){
+        boolean a;
+        do break;
+        while a < 10;
+        return a ;
+        }

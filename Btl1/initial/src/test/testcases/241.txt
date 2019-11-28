@@ -1,0 +1,7 @@
+int foo(int a, int b, int c){
+        for(a;a<10;a + 1)
+        {
+         getInt();
+         putIntLn(4);
+        }
+        }

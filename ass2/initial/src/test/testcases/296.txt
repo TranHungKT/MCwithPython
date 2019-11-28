@@ -1,0 +1,9 @@
+
+        int a,b,c;
+        int foo(int a){
+            putIntLn(a);
+        }
+        void main(){
+            putIntLn(b);
+        }
+        

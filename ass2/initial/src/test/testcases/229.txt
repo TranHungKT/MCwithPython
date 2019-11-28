@@ -1,0 +1,7 @@
+boolean foo(int a, int b , float c){
+                    int boo(){
+                     float doo(){
+
+                     }
+                    }   
+        }
