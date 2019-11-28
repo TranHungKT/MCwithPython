@@ -1,0 +1,13 @@
+
+        float b;
+        int a(int b){
+            return b;
+        }
+        void main(){
+
+            if (b) {
+                int a;
+            }
+            return;
+        }
+        

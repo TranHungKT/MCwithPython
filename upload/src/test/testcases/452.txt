@@ -1,0 +1,22 @@
+
+        boolean test(int e,int f){
+            int a,b;
+            a = e;
+            b = f;
+            for(a;a<10;a = a + b){
+                int a,b,c;
+                for(a;a<c;a = a + b){
+                    int a,c;
+                    float b;
+                    for(a;a<c;a = a + b){
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        void main(){
+            test(10,100);
+        }
+        

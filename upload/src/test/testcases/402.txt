@@ -1,0 +1,14 @@
+
+        int a;
+        float c[2];
+        float b(int a,float b){
+            int mam;
+            float coi;
+            {
+                int c;
+                float d;
+            }
+        }
+        void main () {
+            //putIntLn();
+        }

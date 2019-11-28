@@ -1,0 +1,9 @@
+
+        float foo1(int a, float b, boolean c){
+            return a;
+        }
+        void main() {
+            foo();
+            return;
+        }
+        

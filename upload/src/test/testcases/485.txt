@@ -1,0 +1,10 @@
+
+        int test;
+        void main(){
+            int a,b;
+            float c,d;
+            string e,f;
+            boolean k,h;
+            test(10);
+        }
+        

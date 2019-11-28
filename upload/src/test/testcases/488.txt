@@ -1,0 +1,10 @@
+
+        void main(){
+            boolean bool;
+            int t;
+            checker(t,bool);
+        }
+        int checker(int a,int b){
+            return 1;
+        }
+        

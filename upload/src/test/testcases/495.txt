@@ -1,0 +1,7 @@
+
+        void main(){
+            int a,b;
+            if (a % b == 0)
+                return true;
+        }
+        

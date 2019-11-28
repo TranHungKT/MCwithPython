@@ -1,0 +1,19 @@
+
+        void main(int a,float b,boolean c){
+            do {
+                do{
+                    if (c){
+                        do{
+                            continue;
+                            return;
+                        }while(a+b > 0);
+                    }else{
+                        return;
+                    }
+                    continue;
+                }while(-a != 10);
+                continue;
+            }while (b - 10 < 10);
+            continue;
+        }
+        

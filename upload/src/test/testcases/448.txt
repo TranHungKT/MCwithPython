@@ -1,0 +1,18 @@
+
+        int b;
+        int foo(float b, int c){
+            if (b > c)
+                return c;
+            else
+                return 0;
+        }
+
+        float fail(int wr,boolean wr[]){
+
+        }
+        void main(){
+            boolean wr[3];
+            foo(2.3,5);
+            fail(2,wr);
+        }
+        

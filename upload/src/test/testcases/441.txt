@@ -1,0 +1,12 @@
+
+        void main(){
+            boolean a;
+            if (a){
+                int b,c;
+            }
+            else{
+                if (b > c)
+                    return;
+            }
+        }
+        

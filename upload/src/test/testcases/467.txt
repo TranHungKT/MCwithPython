@@ -1,0 +1,7 @@
+
+        void main(){
+            int a[3],b,value;
+            value = 5;
+            putInt(getInt()) = value;
+        }
+        

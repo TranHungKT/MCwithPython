@@ -1,0 +1,10 @@
+
+        int test;
+        void main(boolean test){
+            {
+                int a;
+                float b;
+                if (test) return b;
+            }
+        }
+        

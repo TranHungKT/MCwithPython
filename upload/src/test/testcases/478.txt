@@ -1,0 +1,12 @@
+
+        void main(boolean a){
+            string c;
+            if (true)
+                LovChecker(a,c);
+        }
+        boolean LovChecker(boolean a,string b){
+            if (a || b)
+                return true;
+            else return false;
+        }
+        

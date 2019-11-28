@@ -1,0 +1,29 @@
+
+        boolean ilovU(string i,boolean lov, string u){
+            boolean tuesday;
+            tuesday = false;
+
+            string anhiuem;
+            anhiuem= "";
+            string iiuu;
+            iiuu = "justkidding";
+            if (yes(lov) == 1 && no(tuesday) == 1)
+                return anhiuem;
+            else
+                return lov;
+        }
+        int yes(boolean ans){
+            if (ans)
+                return 1;
+            else
+                return 1;
+        }
+        int no (boolean ans){
+            if (ans)
+                return 1;
+            else
+                return 1;
+        }
+        void main(){
+        }
+        

@@ -1,0 +1,23 @@
+
+        int z;
+        void main(){
+            doo();
+            return;
+        }
+        int z;
+        float doo(){
+            float b;
+            b = 4.0;
+            if(b<5){
+
+            }
+            else{
+                int a; boolean b;
+                float c;
+                for(a;b;a){
+                    return c;
+                }
+            }
+            return b ;
+        }
+        

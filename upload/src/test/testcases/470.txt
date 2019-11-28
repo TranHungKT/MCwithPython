@@ -1,0 +1,14 @@
+
+        float foo1(int foo, float fl){
+            if (foo > fl){
+                string str;
+                fl = str;
+            }else{
+                fl = foo;
+            }
+            return fl;
+        }
+        void main(int a,float b){
+            foo1(a,b);
+        }
+        

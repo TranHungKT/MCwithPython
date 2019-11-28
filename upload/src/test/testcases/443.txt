@@ -1,0 +1,15 @@
+
+        int foo(boolean c){
+            if (c) return 0;
+            else return 1;
+        }
+        void main(){
+            int a;
+            boolean d;
+            if (foo(d) > a){
+                putFloatLn(getInt());
+                return 1;
+            }
+
+        }
+        

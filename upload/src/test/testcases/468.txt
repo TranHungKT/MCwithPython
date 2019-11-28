@@ -1,0 +1,7 @@
+
+        void main(){
+            string str;
+            boolean c;
+            str = c;
+        }
+        

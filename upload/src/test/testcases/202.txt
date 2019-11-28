@@ -1,0 +1,13 @@
+int a;
+         int a;
+        void main(int b,boolean c){
+            for(a;c;b){
+                if(a == b){
+                    for (a;c;c){
+                        a + b
+                    }
+                }
+            }
+        } 
+       
+        

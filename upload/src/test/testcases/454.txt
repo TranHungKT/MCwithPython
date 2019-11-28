@@ -1,0 +1,21 @@
+
+        void main(){
+            int a,b,c;
+            for (a;a<b;c){
+                if (a == c){
+                    do{
+                        {
+                            {
+                                float a;
+                                return a;
+                            }
+                        }
+                    }while(a + b != c);
+                }else {
+                    {
+                        return;
+                    }
+                }
+            }
+        }
+        

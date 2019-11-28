@@ -1,0 +1,18 @@
+
+        float main(string str, int arg, boolean bool, float fl){
+            do {
+                if (arg + 1 < fl){
+                    do{
+                        break;
+                    }while(bool || fl - 10 > 0);
+                    return fl;
+                }else{
+                    do{
+                        break;
+                    }while(arg<10);
+                }
+                break;
+            }while(!bool);
+            break;
+        }
+        

@@ -1,0 +1,18 @@
+
+    void reverseSentence(){
+
+    }
+    int main()
+    {
+        reverseSentence();
+        return 0;
+    }
+    void reverseSentence()
+    {
+        string c;
+        if( c != "")
+        {
+            reverseSentence();
+        }
+    }
+        

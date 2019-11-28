@@ -1,0 +1,14 @@
+
+        void main(){
+            CheckMultiUnaryOp();
+        }
+        string CheckMultiUnaryOp(){
+            float fl,fh;
+            int index,_t;
+            boolean bool,ean;
+            string str,ing;
+            ing = "thay Phung dep trai vo dich vu tru";
+            if (-fl < -fh || -index + fl * (fh / _t) && str = ing)
+                return ing;
+        }
+        

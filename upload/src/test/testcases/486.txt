@@ -1,0 +1,13 @@
+
+        void main(){
+            int index,t;
+            float e,d;
+            string str,ing;
+            boolean bool,ena;
+            foo(t,e);
+        }
+
+        int foo(int a,float b,string c,boolean d){
+            return 1;
+        }
+        

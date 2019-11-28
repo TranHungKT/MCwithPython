@@ -1,0 +1,10 @@
+
+        float a,b;
+        boolean c;
+        void main(){
+            for (a;c;b){
+
+            }
+            return;
+        }
+        

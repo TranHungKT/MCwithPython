@@ -1,0 +1,16 @@
+
+        void main(){
+          Checker();
+        }
+        boolean Checker(){
+            if (true || false && true == false){
+                int a,b;
+                float c,d;
+                string e;
+                boolean f;
+                if (a < b || c >= d || e)
+                    return f;
+            }else
+                return true;
+        }
+        

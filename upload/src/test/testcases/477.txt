@@ -1,0 +1,10 @@
+
+        void main(int a){
+            float b;
+            if (true)
+                foo(a,b);
+        }
+        int foo(int a,float b){
+            return (a % b);
+        }
+        

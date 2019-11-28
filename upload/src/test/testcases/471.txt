@@ -1,0 +1,14 @@
+
+        int foo(int a,boolean c){
+            if (a + 10 == 0){
+                if (a /c  >= 5)
+                    return 0;
+                else return a;
+            }else {
+                return a;
+            }
+        }
+        void main(int a,boolean c){
+            foo(a,c);
+        }
+        

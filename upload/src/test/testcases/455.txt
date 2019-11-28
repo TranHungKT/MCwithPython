@@ -1,0 +1,16 @@
+
+        boolean main(int arg, float x){
+            if (x+arg < 12.0e-12){
+                boolean k;
+                for (arg; x < arg;arg = arg - 1){
+                    do{
+                        int k;
+                        k = 1;
+                        return k;
+                    }while (k);
+                }
+            }else{
+                return false;
+            }
+        }
+        

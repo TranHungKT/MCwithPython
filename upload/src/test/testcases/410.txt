@@ -1,0 +1,9 @@
+
+        int a;
+        void main(){
+            return;
+        }
+        int a(float a){
+            return a;
+        }
+        

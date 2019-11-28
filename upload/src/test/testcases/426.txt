@@ -1,0 +1,14 @@
+
+        boolean test;
+        void main(){
+            {
+                {
+                    {
+                        int test;
+                        int c[5];
+                        if (test) return;
+                    }
+                }
+            }
+        }
+        

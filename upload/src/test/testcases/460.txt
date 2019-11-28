@@ -1,0 +1,14 @@
+
+        void main(int test,float fe){
+            if (test == 0) {
+                int a,b,c;
+                for (a;a<b;c=c+1){
+                    if (fe > a)
+                        continue;
+                    else
+                        return;
+                }
+                continue;
+            }
+        }
+        

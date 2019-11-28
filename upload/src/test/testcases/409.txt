@@ -1,0 +1,11 @@
+
+        int a(float b,boolean c){
+            return b;
+        }
+        float a(boolean c,int d){
+            return c;
+        }
+        void main(){
+
+        }
+        

@@ -1,0 +1,19 @@
+
+        string i;
+        void main(){
+            int i;
+            boolean b;
+            boolean a;
+            if(a&&b)
+                {
+
+                    return c;
+                    {
+                        return a && b;
+                    }
+                }
+            {
+            return a;
+            }
+        }
+        

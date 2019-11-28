@@ -1,0 +1,1 @@
+Type Mismatch In Statement: If(UnaryOp(!,Id(c)),Return(IntLiteral(0)),Return(IntLiteral(1)))

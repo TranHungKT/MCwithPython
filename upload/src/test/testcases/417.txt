@@ -1,0 +1,11 @@
+
+        boolean b;
+        int a(int b){
+            return b;
+        }
+        void main(){
+
+            if (a) b;
+            return;
+        }
+        

@@ -1,0 +1,19 @@
+
+        void main(){
+             checkUnary();
+        }
+        float checkUnary(){
+            int a,b;
+            float c,d;
+            string e,f;
+            boolean g,h;
+            if (!g || -a+c-d*b < 0 && h){
+                for (a;h;b){
+                    if (!e)
+                        return c;
+                    else
+                        return d;
+                }
+            }
+        }
+        

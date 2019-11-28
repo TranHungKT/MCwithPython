@@ -1,0 +1,16 @@
+
+        string main(int a,float b[]){
+            if (a < b[1]){
+                for (a;a < b[2]; a = a +1){
+                    do{
+                        return test;
+                    }while (b[3] > 0);
+                }
+            }else{
+                string k;
+                k = "phu dep trai";
+                return k;
+            }
+
+        }
+        

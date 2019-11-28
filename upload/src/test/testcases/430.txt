@@ -1,0 +1,11 @@
+
+        void main(){
+            boolean b[3];
+            if (b[0]) {
+                a;
+            }
+            else {
+                return;
+            }
+        }
+        

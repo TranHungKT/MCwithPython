@@ -1,0 +1,14 @@
+
+        int a[5];
+        boolean test;
+        int[] foo(int b){
+            return b;
+        }
+        void main(){
+            {
+                int a;
+                float b;
+                if (test) return;
+            }
+        }
+        

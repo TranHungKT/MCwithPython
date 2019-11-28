@@ -1,0 +1,18 @@
+
+                void main(){
+                    a();
+                    return;
+                }
+            int a(){
+                int a;
+                float b;
+                if(a > b){
+                    a &&b;
+                }
+                else{
+                    return a;
+                }
+                for(a + b;a>b;a+1){
+                    return a;
+                }
+            }

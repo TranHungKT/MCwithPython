@@ -1,0 +1,9 @@
+
+        void main(int a[]){
+            float x;
+            if (a[10] == 10)
+                a[x];
+            else 
+                return;
+        }
+        

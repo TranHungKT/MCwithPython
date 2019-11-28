@@ -1,0 +1,11 @@
+
+        boolean b;
+        void main(){
+            do {
+                int b;
+                int a;
+                float a;
+            }while(b);
+            return;
+        }
+        

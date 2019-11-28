@@ -1,0 +1,11 @@
+
+        int test(int ba[]){
+            do{
+                return ba;
+            }while ba[2] == 2;
+        }
+        void main(){
+            int a[3];
+            test(a);
+        }
+        

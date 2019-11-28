@@ -1,0 +1,16 @@
+
+        float foo(int a,float b,boolean c){
+            if (a > b || c){
+                return 12E-1;
+            }
+            else {
+                if (!c) return 0;
+                else return 1;
+            }
+        }
+        void main(){
+            int a,b;
+            boolean c;
+            if (foo(a,b,c) == a) return;
+        }
+        

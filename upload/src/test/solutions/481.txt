@@ -1,0 +1,1 @@
+Type Mismatch In Expression: BinaryOp(=,Id(ing),StringLiteral(thay Phung dep trai vo dich vu tru))

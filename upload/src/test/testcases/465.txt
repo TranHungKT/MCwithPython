@@ -1,0 +1,16 @@
+
+        int[] a(int arg){
+            int arr[4],b[2];
+            if (arg > 10)
+                return arr;
+            else
+                return b;
+        }
+        void main(string str){
+            boolean bool;
+            bool = true;
+            if (bool){
+                a(10) = str;
+            }
+        }
+        

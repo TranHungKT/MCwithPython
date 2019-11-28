@@ -1,0 +1,10 @@
+
+        int main(int a,boolean bool){
+            if (a != bool)
+                return a;
+            else{
+                return 0;
+            }
+            return 1;
+        }
+        

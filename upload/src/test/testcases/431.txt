@@ -1,0 +1,11 @@
+
+        int[] foo(){
+            int a[2];
+            return a;
+        }
+        void main(){
+            int a,b;
+            boolean c;
+            foo[a];
+        }
+        

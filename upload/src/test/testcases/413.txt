@@ -1,0 +1,16 @@
+
+        int haha(float b,boolean c){
+            boolean d;
+            {
+                string e;
+                {
+                    string e;
+                    int e;
+                }
+                return 0;
+            }
+        }
+        void main(){
+
+        }
+        

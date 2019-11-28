@@ -1,0 +1,12 @@
+
+        void main(){
+            float a,b;
+            if (a > b || a == b){
+                for(a; a < 10;a = a +1){
+                    float foo;
+                }
+            }else{
+                getInt();
+            }
+        }
+        

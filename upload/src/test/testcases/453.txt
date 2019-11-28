@@ -1,0 +1,18 @@
+
+        int main(int arg){
+            do
+            {
+                int b;
+                float c;
+                do{
+                    int b;
+                    float c;
+                    do{
+                        if (b > c)
+                            return 0;
+                        else return 1;
+                    }while(b/c != 0);
+                }while(b/c >= 0);
+            }while (arg == 1);
+        }
+        

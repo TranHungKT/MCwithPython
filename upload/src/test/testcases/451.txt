@@ -1,0 +1,25 @@
+
+        boolean checker(int a, int b){
+            int term;
+            if (a > b){
+                int c;
+                c = 10;
+                if (a < c){
+                    float d;
+                    d = 12e-12;
+                    if (a + d  == c)
+                        return true;
+                    else
+                        return false;
+                }else
+                    return false;
+            }else
+                return false;
+        }
+        void main(){
+            int a,b;
+            a = 10;
+            b = 20;
+            checker(a,b);
+        }
+        

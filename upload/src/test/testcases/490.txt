@@ -1,0 +1,12 @@
+
+        int test;
+        void main(int a){
+            return;
+            int b;
+            foo(b,b);
+            return;
+        }
+        int foo(int a,int b){
+            return c;
+        }
+        

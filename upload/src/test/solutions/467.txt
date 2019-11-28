@@ -1,0 +1,1 @@
+Not Left Value: CallExpr(Id(putInt),[CallExpr(Id(getInt),[])])

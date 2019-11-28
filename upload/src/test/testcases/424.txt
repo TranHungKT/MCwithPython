@@ -1,0 +1,9 @@
+
+        int b;
+        void main(){
+            do {
+
+            }while(b);
+            return;
+        }
+        

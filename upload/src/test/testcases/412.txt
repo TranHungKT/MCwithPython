@@ -1,0 +1,10 @@
+
+        float foo(int a,float b){
+
+            int a;
+            return 0;
+        }
+        void main(){
+
+        }
+        

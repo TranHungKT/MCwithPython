@@ -1,0 +1,11 @@
+
+        int a,c;
+        boolean b;
+        void main(){
+            for (a;b;c){
+                int d;
+                c();
+            }
+            return;
+        }
+        

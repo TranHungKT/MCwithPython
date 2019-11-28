@@ -1,0 +1,17 @@
+
+        string[] foo(int a,string b[]){
+            //b = "Phu Yeu PPL";
+            if (a < 10){
+                if (a > 5){
+                    if (a < 7){
+                        return b;
+                    }else{
+                        int b[3];
+                        return b;
+                    }
+                }
+            }
+        }
+        void main(){
+        }
+        

@@ -1,0 +1,6 @@
+
+        void main(int b){
+            string c;
+            c = b;
+        }
+        

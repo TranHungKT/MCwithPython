@@ -1,0 +1,18 @@
+
+        boolean b;
+        int a(int b){
+            return b;
+        }
+        void main(){
+
+            if (b) {
+                int a;
+                float c;
+            }
+            else{
+                string foo;
+                boolean foo;
+            }
+            return;
+        }
+        

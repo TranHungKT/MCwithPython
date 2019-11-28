@@ -1,0 +1,18 @@
+
+        boolean main(string str,int index,int a[]){
+            boolean bool;
+            bool = false;
+            if (!bool){
+                for(index;index < a[index];index=index + 1){
+                    int b,bool;
+                    boolean c;
+                    for (b;c;bool + 1){
+                        break;
+                    }
+                    if (!c) return c;
+                    break;
+                }
+                break;
+            }
+        }
+        

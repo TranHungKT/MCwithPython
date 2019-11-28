@@ -1,0 +1,10 @@
+
+        void main(){
+            string e;
+            int f;
+            checker(e,f);
+        }
+        float checker(string e,int f[]){
+            return 12e12;
+        }
+        
